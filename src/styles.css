@@ -1,0 +1,13 @@
+
+body{
+    background-image: url("./assets/img/textura.jpg");
+}
+
+.teste{
+    background-image: url("./assets/img/textura.jpg");
+}
+
+@font-face{
+    font-family: 'Chomsky';
+    src:url('./assets/fontes/Chomsky-8MOa2.otf')
+}

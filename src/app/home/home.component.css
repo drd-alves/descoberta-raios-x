@@ -1,0 +1,43 @@
+#separador{
+    background-color: #232323;
+    height: 3px;
+    width: 100%;
+}
+
+p{
+    font-family: 'PT Serif', serif;
+}
+
+a{
+    text-decoration: none;
+    color: #232323;
+}
+
+.titulo-2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: 900;
+    
+}
+
+.titulo{
+    font-family: 'PT Serif', serif;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.hover:hover {
+    text-decoration: underline;
+}
+
+.titulo-modal{
+    font-family: 'PT Serif', serif;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.subtitulo{
+    font-size: 30px;
+    font-weight: 700;
+}

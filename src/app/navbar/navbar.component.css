@@ -1,0 +1,16 @@
+#nome{
+    color: #232323;
+    font-family: 'Chomsky';
+    font-size: 100px;
+}
+
+#separador{
+    background-color: #232323;
+    height: 7px;
+    width: 100%;
+}
+
+.texto{
+    color: #232323;
+    font-size: 14pt;
+}
